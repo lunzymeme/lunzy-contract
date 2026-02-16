@@ -89,10 +89,10 @@ Cryptocurrency involves inherent **risks and volatility**. Lunzy does not provid
 ---
 
 ## Get Involved
-
-- Join the community on [Telegram](#)  
-- Track updates on [Twitter](#)  
-- Contribute to discussions and governance proposals  
+- Official Website: lunzy.org
+- oin the community on Telegram: t.me/lunzymeme
+- Track updates on Twitter (X): twitter.com/lunzymeme  
+- Official Contact: lunzymeme@lunzy.org
 
 ---
 
