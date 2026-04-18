@@ -48,7 +48,7 @@ Instead of relying on unrealistic promises, Lunzy grows together with its commun
 ## Get Involved
 - Official Website: lunzy.org
 - Join the community on Telegram: t.me/lunzymeme
-- Track updates on Twitter (X): twitter.com/lunzymeme
+- Track updates on Twitter (X): https://x.com/lunzyofficial
 - Official Contact: lunzymeme@lunzy.org
 
 ## Risks & Disclaimer
